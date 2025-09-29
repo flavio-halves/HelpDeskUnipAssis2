@@ -259,3 +259,4 @@ C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssis2\HelpDeskUnipAssis2\obj\D
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssis2\HelpDeskUnipAssis2\obj\Debug\net8.0\HelpDeskUnipAssis2.pdb
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssis2\HelpDeskUnipAssis2\obj\Debug\net8.0\HelpDeskUnipAssis2.genruntimeconfig.cache
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssis2\HelpDeskUnipAssis2\obj\Debug\net8.0\ref\HelpDeskUnipAssis2.dll
+C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssis2\HelpDeskUnipAssis2\obj\Debug\net8.0\HelpDeskUnipAssis2.sourcelink.json

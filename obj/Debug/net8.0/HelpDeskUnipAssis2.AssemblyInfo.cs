@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelpDeskUnipAssis2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1b38edfcb2cc0d625367c5336c25e4966b00958")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelpDeskUnipAssis2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelpDeskUnipAssis2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
